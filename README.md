@@ -4,7 +4,7 @@ I am currently a Computer Science student in the UK, passionate about pursuing a
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/constantinos_15p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-patatas-bb3671355/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:patataskonstantinos@gmail.com)
-[![Linktree](https://upload.wikimedia.org/wikipedia/commons/8/8e/Linktree_logo.png)](https://linktr.ee/konstantinospatatas)
+[![Linktree](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linktree.svg)](https://linktr.ee/konstantinospatatas)
 
 
 # 💻 Tech Stack:
